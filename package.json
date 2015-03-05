@@ -1,0 +1,28 @@
+{
+  "name": "a-event-namespace",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "dependencies": {
+    "mixto": ""
+  },
+  "devDependencies": {
+    "kosher": ""
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "description": "A Event Namespace",
+  "keywords": [
+    "a",
+    "event",
+    "namespace"
+  ],
+  "homepage": "https://github.com/joaoafrmartins/a-event-namespace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-event-namespace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-event-namespace/issues"
+  }
+}
